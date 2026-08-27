@@ -1,3 +1,9 @@
+## 🔗 Links
+
+- 🌐 **Live Demo:** https://foodchow-task.vercel.app
+- 💻 **GitHub Repository:** https://github.com/mahajanritu/foodchow-task
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
